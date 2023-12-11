@@ -1,0 +1,76 @@
+.hidden {
+    display:none;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #E3DEFF;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2F2C80;
+    margin: 10;
+}
+
+.container {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    left: 0px;
+}
+
+#top-menu {
+    margin-left:700px;
+    margin-top:-50px;
+    position: absolute;
+    top: 173px; 
+    left: -27px;
+}
+
+#top-menu ul {
+    list-style-type: none;
+}
+
+#top-menu ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+#top-menu ul li a {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.man2 {
+    margin-left: 22px;
+}
+
+.woman2 {
+    margin-left: 100px;
+}
+
+.man1 {
+    margin-left: 105px;
+}
+
+.woman1 {
+    margin-left: 110px;
+}
+
+.product-display {
+    position: relative;
+    left: 487px;
+}
+
+.client-review {
+    position: relative;
+    left: 487px;
+}
+
+.contact-info {
+    position: relative;
+    left: 487px;
+}
