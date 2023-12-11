@@ -1,4 +1,4 @@
-# ${1052-1054-FIP}
+# {1052-1054-FIP}
 This project is meant to represent a digitalized version of my personal portfolio, which displays how I think my website would look and function if I had the greater coding skill needed to construct it fully. Consider this more like a demo of what could be rather than a 100% functional website full of content. This file also demonstrates requirements for the 1054-1052 FIPs respectively. 
 ## Installation
 No installation required- Simply down the files and use them as pleased!
