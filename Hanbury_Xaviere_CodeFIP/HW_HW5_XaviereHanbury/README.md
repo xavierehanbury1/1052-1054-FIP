@@ -11,7 +11,7 @@ You are allowed to use this site as an example file or template to build your ow
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## History
-TODO: Write history
+Added additional CSS styling & decor to the page, created outlines for the form input and crafted a working animated submit checkbox/button. 
 ## Credits
 Xaviere Hanbury
 ## License
