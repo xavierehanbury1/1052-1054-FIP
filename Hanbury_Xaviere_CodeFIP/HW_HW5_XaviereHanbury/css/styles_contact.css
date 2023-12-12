@@ -76,4 +76,15 @@ input[type="checkbox"]:checked + span::after {
     to {opacity: 1;}
 }
 
+input{ 
+    border: 2px dotted #A197E4; 
+    border-radius: 4px; 
+    background-color: #BFB4FF;
+} 
+
+#comments{ 
+    border: 2px dotted #A197E4; 
+    border-radius: 4px;  
+    background-color: #BFB4FF; 
+} 
 
