@@ -44,20 +44,21 @@ body {
     font-size: 18px;
 }
 
+
 .man2 {
-    margin-left: 22px;
+    display: inline;
 }
 
 .woman2 {
-    margin-left: 100px;
+    display: inline;
 }
 
 .man1 {
-    margin-left: 105px;
+    display: inline;
 }
 
 .woman1 {
-    margin-left: 110px;
+    display: inline;
 }
 
 .product-display {
@@ -74,3 +75,22 @@ body {
     position: relative;
     left: 487px;
 }
+
+.contain {
+width: 1180px;
+  display:grid;
+  grid-template-columns: repeat(12,80px);
+  column-gap: 20px;
+  row-gap: 40px;
+}
+
+.grid-content { 
+    width: 73%; 
+    margin-left: 20px; 
+    height: 70%; 
+    padding: 2px; 
+    display: grid; 
+    grid-template-columns: repeat(12,80px); 
+    grid-gap: 236px; 
+} 
+
